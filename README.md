@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BalavinayakamD
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning C,HTML,python,Golang,c#,css,JavaScript
+- 🌱 I’m currently learning C,C++,HTML,Python,Golang,C#,css,JavaScript,GDScript
 - 💞️ I’m looking to collaborate on anyone who have ideas and interset in my foi
 - 📫 reach me through balavinayakamd@gmail.com or in instagram vin.a.yak06
+- 🏃‍♂️ I can work with any project with a littlt bit of time .I'm a quick learner
