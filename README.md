@@ -2,5 +2,5 @@
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning C,C++,HTML,Python,Golang,C#,css,JavaScript,GDScript
 - 💞️ I’m looking to collaborate on anyone who have ideas and interset in my field of interest
-- 📫 reach me through balavinayakamd@gmail.com or in instagram vin.a.yak06
+- 📫 reach me through balavinayakamd@gmail.com or in instagram @vin.a.yak06
 - 🏃‍♂️ I can work with any project with a littlt bit of time .I'm a quick learner
